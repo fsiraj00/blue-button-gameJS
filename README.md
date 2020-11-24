@@ -1,4 +1,4 @@
-In this project, I will be making a game using HTML and Javascript. 
+In this project, I made a game using HTML and Javascript. 
 
 How to play:
 Game starts the second you hover the blue button.
